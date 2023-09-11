@@ -16,19 +16,22 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **Python libraries**: Pandas, NumPy, MatplotLib, Seaborn, NLTK, SciPy  
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
+## Education
+**New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>
+*MS in Data Science*  
+
+**Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>
+*BS in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>
+*Major*: Operations and Information Management  
+*Minors*: Statistics, Computer Science  
+*Honors Thesis*: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
+
 ## Selected Experience
-**Georgetown Baseball**, Georgetown University, Washington, DC  
+**Georgetown Baseball**, Georgetown University, Washington, DC
 *Director of Analytics* <span style="float: right;">August 2021 – May 2023</span>
 - Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
 - Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
 - Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
-
-**Georgetown Baseball**, Georgetown University, Washington, DC
-*Director of Analytics* <span style="float: right;">August 2021 – May 2023</span> &nbsp;&nbsp;&nbsp;
-- Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
-- Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
-- Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
-
 
 **IQVIA**, Durham, NC  
 *Business Analyst Intern, Product Design and Digital R&D* <span style="float: right;">June 2021 – April 2023</span>
