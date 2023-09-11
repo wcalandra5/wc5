@@ -17,7 +17,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
 ## Selected Experience
-**Georgetown Baseball**, Georgetown University, Washington, DC  
+**Georgetown Baseball**, Georgetown University, Washington, DC
 <div style="display: flex; justify-content: space-between;">
   <div>*Director of Analytics*</div>
   <div>August 2021-May 2023</div>
@@ -26,7 +26,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 •	Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
 •	Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
 
-**IQVIA**, Durham, NC  
+**IQVIA**, Durham, NC
 <div style="display: flex; justify-content: space-between;">
   <div>*Business Analyst Intern, Product Design and Digital R&D*</div>
   <div>June 2021-April 2023</div>
@@ -35,7 +35,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 •	Analyzed key trends and relationships for predicting drug candidate success from clinical trial data using Python and SQL  
 •	Conducted end-to-end analyses in R to inform persona development for product launch using ensemble clustering and random forest algorithms  
 
-**Hoyalytics**, Georgetown University, Washington, DC  
+**Hoyalytics**, Georgetown University, Washington, DC
 <div style="display: flex; justify-content: space-between;">
   <div>*Chief Analytics Officer*</div>
   <div>April 2022-December 2022</div>
@@ -50,7 +50,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 •	Upskilled 21 members’ technical capabilities through creation and delivery of 10+ hours of modules in R and Git  
 •	Moderated 4 forums with data and technology industry leaders to increase awareness of analytics initiatives across sports and academic communities  
 
-**Leading Youth Through Empowerment**, Wilmington, DE  
+**Leading Youth Through Empowerment**, Wilmington, DE
 <div style="display: flex; justify-content: space-between;">
   <div>*Data Operations & IT Support Intern*</div>
   <div>May 2020-August 2020</div>
@@ -60,7 +60,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 • Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
 
 ## Additional Experience
-**McDonough Business Strategy Challenge**, Georgetown University, Washington, DC  
+**McDonough Business Strategy Challenge**, Georgetown University, Washington, DC
 <div style="display: flex; justify-content: space-between;">
   <div>*VP, Case Writing*</div>
   <div>August 2021-February 2023</div>
@@ -68,7 +68,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 •	Developed annual competition framework around strategies and business plans to benefit local nonprofit organizations  
 •	Communicated with client executive teams to tailor business cases and research materials to client needs  
 
-**PowerUp Tutoring**, Wilmington, DE  
+**PowerUp Tutoring**, Wilmington, DE
 <div style="display: flex; justify-content: space-between;">
   <div>*Owner*</div>
   <div>June 2018-August 2021</div>
