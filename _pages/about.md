@@ -34,13 +34,12 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 •	Founded Analytics Office to develop members’ technical skills and cultivate data science interests on campus  
 •	Orchestrated content creation and curation as Chief Editor for club Medium blog and Twitter feeds, driving ~1800 views across 17 articles that showcased personal projects, industry newsletters, and analytics career guides  
 •	Spearheaded first club capstone project, a Python sentiment and time series analysis on the USMNT World Cup performance using Twitter API data  
-*VP of Technology* <p style="text-align: right;">September 2021 – April 2022</p>    
+*VP of Technology* <p style="text-align: right;">September 2021 – April 2022</p>  
 •	Upskilled 21 members’ technical capabilities through creation and delivery of 10+ hours of modules in R and Git  
 •	Moderated 4 forums with data and technology industry leaders to increase awareness of analytics initiatives across sports and academic communities  
 
 **Leading Youth Through Empowerment**, Wilmington, DE  
-*Data Operations & IT Support Intern*
-<div style="text-align: right;">May 2020 – August 2020</div>                     
+*Data Operations & IT Support Intern*<div style="text-align: right;">August 2021 – May 2023</div>                     
 • Overhauled legacy operations to Salesforce platform and created ability to collect and analyze attendance data for 100+ students across all educational programs  
 • Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks  
 • Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
