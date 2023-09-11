@@ -23,7 +23,8 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 - Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
 - Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
 
-**Georgetown Baseball**, Georgetown University, Washington, DC&nbsp;&nbsp;&nbsp;*Director of Analytics* <span style="float: right;">August 2021 – May 2023</span>
+**Georgetown Baseball**, Georgetown University, Washington, DC
+*Director of Analytics* <span style="float: right;">August 2021 – May 2023</span> &nbsp;&nbsp;&nbsp;
 - Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
 - Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
 - Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
