@@ -39,6 +39,13 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 •	Moderated 4 forums with data and technology industry leaders to increase awareness of analytics initiatives across sports and academic communities  
 
 **Leading Youth Through Empowerment**, Wilmington, DE  
+<sub><sup>*Data Operations & IT Support Intern*</sup></sub> <sub><sup style="float: right;">August 2021 – May 2023</sup></sub>
+
+- Overhauled legacy operations to Salesforce platform and created the ability to collect and analyze attendance data for 100+ students across all educational programs
+- Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
+- Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities
+
+**Leading Youth Through Empowerment**, Wilmington, DE  
 *Data Operations & IT Support Intern*<div style="text-align: right;">August 2021 – May 2023</div>                     
 • Overhauled legacy operations to Salesforce platform and created ability to collect and analyze attendance data for 100+ students across all educational programs  
 • Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks  
