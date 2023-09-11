@@ -27,7 +27,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 *Honors Thesis*: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
 
 ## Selected Experience
-**Georgetown Baseball**, Georgetown University, Washington, DC
+**Georgetown Baseball**, Georgetown University, Washington, DC  
 *Director of Analytics* <span style="float: right;">August 2021 – May 2023</span>
 - Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
 - Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
