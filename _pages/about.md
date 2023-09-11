@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hello there, I'm Will!"
-excerpt: "About me"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
 ## Selected Experience
-<div style="diusplay: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
   <div>Georgetown Baseball</div>
   <div>August 2021-May 2025</div>
 </div>
