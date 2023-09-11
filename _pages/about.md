@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
-I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.
+## About Me
+I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.  
 
-I am pursuing my Master’s in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.
+I am pursuing my Master’s in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
-Languages/frameworks: Python, R, SQL, Excel (VBA)
-Python libraries: Pandas, NumPy, MatplotLib, Seaborn, NLTK, SciPy
-R libraries: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny
+**Languages/frameworks**: Python, R, SQL, Excel (VBA)  
+**Python libraries**: Pandas, NumPy, MatplotLib, Seaborn, NLTK, SciPy  
+**R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
-# Selected Experience
+## Selected Experience
 Georgetown Baseball, Georgetown University, Washington DC                                                                        August 2021-May 2023
 Director of Analytics                                                                                                                                      
 •	Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies
