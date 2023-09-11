@@ -40,12 +40,12 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 - Conducted end-to-end analyses in R to inform persona development for product launch using ensemble clustering and random forest algorithms  
 
 **Hoyalytics**, Georgetown University, Washington, DC <span style="float: right;">September 2021 – December 2022</span>   
-*Chief Analytics Officer* <span style="float: right;">April 2022 – December 2022</span>
+*Chief Analytics Officer*  
 - Founded Analytics Office to develop members’ technical skills and cultivate data science interests on campus  
 - Orchestrated content creation and curation as Chief Editor for club Medium blog and Twitter feeds, driving ~1800 views across 17 articles that showcased personal projects, industry newsletters, and analytics career guides  
 - Spearheaded first club capstone project, a Python sentiment and time series analysis on the USMNT World Cup performance using Twitter API data  
 
-*VP of Technology* <span style="float: right;">September 2021 – April 2022</span>
+*VP of Technology*  
 - Upskilled 21 members’ technical capabilities through creation and delivery of 10+ hours of modules in R and Git  
 - Moderated 4 forums with data and technology industry leaders to increase awareness of analytics initiatives across sports and academic communities  
 
