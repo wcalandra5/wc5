@@ -17,11 +17,11 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
 ## Education
-**New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>
+**New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *MS in Data Science*  
 
-**Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>
-*BS in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>
+**Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
+*BS in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
 *Major*: Operations and Information Management  
 *Minors*: Statistics, Computer Science  
 *Honors Thesis*: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
