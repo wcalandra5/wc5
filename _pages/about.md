@@ -20,7 +20,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **Georgetown Baseball**, Georgetown University, Washington, DC
 <div style="display: flex; justify-content: space-between;">
   <div>*Director of Analytics*</div>
-  <div>August 2021-May 2023</div>
+  <div>August 2021 – May 2023</div>
 </div>                     
 •	Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
 •	Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
@@ -29,7 +29,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **IQVIA**, Durham, NC
 <div style="display: flex; justify-content: space-between;">
   <div>*Business Analyst Intern, Product Design and Digital R&D*</div>
-  <div>June 2021-April 2023</div>
+  <div>June 2021 – April 2023</div>
 </div> 
 •	Deployed interactive application to analyze drivers of product UX performance using novel regression methodologies  
 •	Analyzed key trends and relationships for predicting drug candidate success from clinical trial data using Python and SQL  
@@ -38,11 +38,11 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **Hoyalytics**, Georgetown University, Washington, DC
 <div style="display: flex; justify-content: space-between;">
   <div>*Chief Analytics Officer*</div>
-  <div>April 2022-December 2022</div>
+  <div>April 2022 – December 2022</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
   <div>*VP of Technology*</div>
-  <div>September 2021-April 2022</div>
+  <div>September 2021 – April 2022</div>
 </div>
 •	Founded Analytics Office to develop members’ technical skills and cultivate data science interests on campus  
 •	Orchestrated content creation and curation as Chief Editor for club Medium blog and Twitter feeds, driving ~1800 views across 17 articles that showcased personal projects, industry newsletters, and analytics career guides  
@@ -53,7 +53,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **Leading Youth Through Empowerment**, Wilmington, DE
 <div style="display: flex; justify-content: space-between;">
   <div>*Data Operations & IT Support Intern*</div>
-  <div>May 2020-August 2020</div>
+  <div>May 2020 – August 2020</div>
 </div>                     
 • Overhauled legacy operations to Salesforce platform and created ability to collect and analyze attendance data for 100+ students across all educational programs  
 • Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks  
@@ -63,7 +63,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **McDonough Business Strategy Challenge**, Georgetown University, Washington, DC
 <div style="display: flex; justify-content: space-between;">
   <div>*VP, Case Writing*</div>
-  <div>August 2021-February 2023</div>
+  <div>August 2021 – February 2023</div>
 </div>                     
 •	Developed annual competition framework around strategies and business plans to benefit local nonprofit organizations  
 •	Communicated with client executive teams to tailor business cases and research materials to client needs  
@@ -71,7 +71,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **PowerUp Tutoring**, Wilmington, DE
 <div style="display: flex; justify-content: space-between;">
   <div>*Owner*</div>
-  <div>June 2018-August 2021</div>
+  <div>June 2018 – August 2021</div>
 </div>                     
 • Conducted capability assessments and created individualized lesson plans for each client  
 • Performed math tutoring sessions for both mainstream students and students with IEPs  
