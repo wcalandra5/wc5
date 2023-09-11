@@ -17,11 +17,16 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
 ## Selected Experience
+<div style="diusplay: flex; justify-content: space-between;">
+  <div>Georgetown Baseball</div>
+  <div>August 2021-May 2025</div>
+</div>
+
 Georgetown Baseball, Georgetown University, Washington DC                                                                        August 2021-May 2023
 Director of Analytics                                                                                                                                      
-•	Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies
-•	Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff
-•	Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts
+•	Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
+•	Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
+•	Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
 
 
 
