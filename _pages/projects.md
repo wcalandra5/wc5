@@ -4,8 +4,8 @@ title: "Hello there, I'm Will Projects!"
 excerpt:
 author_profile: true
 #redirect_from: 
-#  - /about/
-#  - /about.html
+#  - /projects/
+#  - /projects.html
 ---
 ## About Me
 I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.  
