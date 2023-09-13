@@ -16,5 +16,9 @@ A concept I pioneered with Georgetown’s data analytics club, Hoyalytics, this 
 
 Consistent with our club’s mission to democratize data analytics education, we open-sourced our code on [GitHub](https://github.com/wcalandra5/USMNT_Sentiment_Analysis) and published a detailed walkthrough of the code and statistical theory used in the project.
 
-## [My R Course for Beginners](https://github.com/wcalandra5/R_Course#r-education-course-notes)
+## [My R Course for Beginners](https://github.com/wcalandra5/R_Course#r-education-course-notes)  
+<div style="display: flex;">
+  <img src="linreg.jpg" alt="Image 1" style="flex: 1; padding: 5px;">
+  <img src="stath.jpg" alt="Image 2" style="flex: 1; padding: 5px;">
+</div>
 Built from scratch to inspire my Georgetown peers to learn data analytics, this six lecture R course introduces people to R programming, statistical principles, and data ethics. Taught from ground zero, the course is designed to equip anyone with fundamental skills to start building their own data analytics projects. I enjoyed teaching this course to ~50 of my peers during 3 semesters, which helped develop enthusiasm for data analysis in addition to core competencies for both Hoyalytics and Georgetown Baseball. Attached are my lecture notes that helped guide my lectures and provide resources for my peers.
