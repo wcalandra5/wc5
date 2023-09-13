@@ -1,5 +1,5 @@
 ---
-permalink:
+permalink: /
 title: "Hello there, I'm Will!"
 excerpt:
 author_profile: true
