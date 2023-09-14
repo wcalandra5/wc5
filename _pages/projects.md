@@ -15,6 +15,9 @@ author_profile: true
   </div>
 </div>
 
+![Image](tseries_NED.jpg){width=50%}
+
+
 A concept I pioneered with Georgetown’s data analytics club, Hoyalytics, this collaborative capstone project tracked fan sentiment during the 2022 USMNT World Cup games. Our goal was to find insights about fan attitudes towards in-game events, offering a data-driven perspective to create a narrative behind the team’s journey. We scraped thousands of tweets from Twitter’s API and cleaned the data to conduct our sentiment analysis. We then performed a time series analysis to statistically detect changes in sentiment, which correlated with key game events. Our visualizations also offered evidence for sources of positive and negative sentiment surrounding the USMNT, particularly involving Coach Gregg Berhalter, young star Gio Reyna, and team captain Christian Pulisic. 
 
 Consistent with our club’s mission to democratize data analytics education, we open-sourced our code on [GitHub](https://github.com/wcalandra5/USMNT_Sentiment_Analysis) and published a detailed walkthrough of the code and statistical theory used in the project.
@@ -23,7 +26,7 @@ Consistent with our club’s mission to democratize data analytics education, we
  
 <div style="display: flex; width: 100%;">
   <div style="flex: 100%;">
-    <img src="stath.jpg" alt="Image 3" style="max-width: 100%;" />
+    <img src="/images/site-logo.png" alt="Image 3" style="max-width: 100%;" />
   </div>
 </div>
 
