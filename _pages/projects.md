@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-# title: "Hello there, I'm Will Projects!"
+title: "Projects"
 excerpt:
 author_profile: true
 #redirect_from: 
