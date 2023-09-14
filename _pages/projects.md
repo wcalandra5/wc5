@@ -4,6 +4,7 @@ title: "Projects"
 author_profile: true
 ---
 ## [“It’s Called VADER”: A Python Twitter Sentiment Analysis on USMNT Fans during the 2022 World Cup"](https://medium.com/hoyalytics/its-called-vader-a-python-twitter-sentiment-analysis-on-usmnt-fans-during-the-2022-world-cup-a8e08d479647)  
+![Image](./linreg.jpg)
 
 A concept I pioneered with Georgetown’s data analytics club, Hoyalytics, this collaborative capstone project tracked fan sentiment during the 2022 USMNT World Cup games. Our goal was to find insights about fan attitudes towards in-game events, offering a data-driven perspective to create a narrative behind the team’s journey. We scraped thousands of tweets from Twitter’s API and cleaned the data to conduct our sentiment analysis. We then performed a time series analysis to statistically detect changes in sentiment, which correlated with key game events. Our visualizations also offered evidence for sources of positive and negative sentiment surrounding the USMNT, particularly involving Coach Gregg Berhalter, young star Gio Reyna, and team captain Christian Pulisic. 
 

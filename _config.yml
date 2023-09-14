@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Will's Homepage"
+title                    : "About Will"
 title_separator          : "-"
 name                     : &name "Will Calandra"
 description              : &description "personal description"
