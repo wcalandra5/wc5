@@ -10,11 +10,8 @@ author_profile: true
 ## [“It’s Called VADER”: A Python Twitter Sentiment Analysis on USMNT Fans during the 2022 World Cup"](https://medium.com/hoyalytics/its-called-vader-a-python-twitter-sentiment-analysis-on-usmnt-fans-during-the-2022-world-cup-a8e08d479647) 
 
 <div style="display: flex; width: 100%;">
-  <div style="flex: 50%;">
-    <img src="tseries_NED.jpg" alt="Image 1" style="max-width: 100%;" />
-  </div>
-  <div style="flex: 50%;">
-    <img src="wcloud_NED.jpeg" alt="Image 2" style="max-width: 100%;" />
+  <div style="flex: 100%;">
+    <img src="tseries_NED.jpg" alt="Image 2" style="max-width: 100%;" />
   </div>
 </div>
 
@@ -25,11 +22,8 @@ Consistent with our club’s mission to democratize data analytics education, we
 ## [My R Course for Beginners](https://github.com/wcalandra5/R_Course#r-education-course-notes)  
  
 <div style="display: flex; width: 100%;">
-  <div style="flex: 50%;">
-    <img src="linreg.jpg" alt="Image 3" style="max-width: 100%;" />
-  </div>
-  <div style="flex: 50%;">
-    <img src="stath.jpg" alt="Image 4" style="max-width: 100%;" />
+  <div style="flex: 100%;">
+    <img src="stath.jpg" alt="Image 2" style="max-width: 100%;" />
   </div>
 </div>
 
