@@ -1,12 +1,13 @@
 ---
 permalink: /projects/
 title: "Projects"
-excerpt:
+excerpt: "test"
 author_profile: true
-#redirect_from: 
-#  - /projects/
-#  - /projects.html
+redirect_from: 
+  - /projects/
+  - /projects.html
 ---
+
 ## [“It’s Called VADER”: A Python Twitter Sentiment Analysis on USMNT Fans during the 2022 World Cup"](https://medium.com/hoyalytics/its-called-vader-a-python-twitter-sentiment-analysis-on-usmnt-fans-during-the-2022-world-cup-a8e08d479647) 
 <div style="display: flex; justify-content: space-between;">
   <img src="tseries_NED.jpg" alt="Image 1" style="width: 48%;"/>
