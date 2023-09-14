@@ -3,10 +3,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-## [“Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”](./test/calandra_thesis.pdf) 
-
-<iframe src="./test/calandra_thesis.pdf" width="100%" height="500px"></iframe>
-
+## [“Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”](https://wcalandra5.github.io/_pages/test/calandra_thesis.pdf) 
 
 As part of a select group through the McDonough School of Business Senior Honors Thesis program, I had the opportunity to conduct original research under the guidance of a faculty advisor. Motivated to combine my business curriculum with my interest in AI development, I worked with Professor Robin Dillon-Merrill to research methods that could help increase adoption of AI technologies in business and social contexts.  
 
