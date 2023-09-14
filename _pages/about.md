@@ -18,10 +18,10 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 
 ## Education
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
-*MS in Data Science*  
+*M.S. in Data Science*  
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
-*BS in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
+*B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
 Major: Operations and Information Management  
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
