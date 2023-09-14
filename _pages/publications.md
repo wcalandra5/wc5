@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-## [“Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”](https://wcalandra5.github.io/_pages/test/calandra_thesis.pdf) 
+## [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”](../_pages/test/calandra_thesis.pdf)
 
 As part of a select group through the McDonough School of Business Senior Honors Thesis program, I had the opportunity to conduct original research under the guidance of a faculty advisor. Motivated to combine my business curriculum with my interest in AI development, I worked with Professor Robin Dillon-Merrill to research methods that could help increase adoption of AI technologies in business and social contexts.  
 
@@ -34,6 +34,6 @@ Quote: "With the move to LF (Linux Foundation), PyTorch will establish and codif
 ### ["How Meta Is Using AI to Understand How the Brain Works"](https://medium.com/hoyalytics/in-the-news-how-data-is-transforming-healthcare-criminal-investigations-and-football-9341a7697e30)
 Quote: "Think of the implications of such a project: if researchers are able to build accurate models of the brain’s pathways for recognizing speech, they can understand how our brains decode speech, which has revolutionary potential for solving speech and communication impairments."    
 
-## [The Georgetown Voice - "The MLB Has a Competitive Balance Issue, and It’s Related to Money and Payroll Inequalities"](https://georgetownvoice.com/2020/02/18/the-mlb-has-a-competitive-balance-issue-and-its-related-to-money-and-payroll-inequalities/)
+## [The Georgetown Voice: "The MLB Has a Competitive Balance Issue, and It’s Related to Money and Payroll Inequalities"](https://georgetownvoice.com/2020/02/18/the-mlb-has-a-competitive-balance-issue-and-its-related-to-money-and-payroll-inequalities/)
 
 Published in The Georgetown Voice, a student-run newspaper, I examine the relationship between MLB team wins and payrolls from 2000-2019. In the article, I highlight the systemic inequalities that prevent small market teams from competing with large market teams, diving into performance and payroll data in addition to analysis of the MLB collective bargaining agreement. I then elucidate strategic patterns of successful small market franchises, and I make policy prescriptions for MLB franchise tags, stronger luxury taxes, and a playoff format redesign.
