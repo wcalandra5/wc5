@@ -23,7 +23,7 @@ Consistent with our club’s mission to democratize data analytics education, we
  
 <div style="display: flex; width: 100%;">
   <div style="flex: 100%;">
-    <img src="stath.jpg" alt="Image 2" style="max-width: 100%;" />
+    <img src="stath.jpg" alt="Image 3" style="max-width: 100%;" />
   </div>
 </div>
 
