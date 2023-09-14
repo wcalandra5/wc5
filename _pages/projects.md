@@ -15,7 +15,7 @@ author_profile: true
 ![Image](/test_image/stath.JPG)
 ![Image](test_image/stath.JPG)
 
-[Image](../test_image/bio-photo-2.jpg)  
+![Image](../test_image/bio-photo-2.jpg)  
 ![Image](./test_image/bio-photo-2.jpg)
 ![Image](/test_image/bio-photo-2.jpg)
 ![Image](test_image/bio-photo-2.jpg)
