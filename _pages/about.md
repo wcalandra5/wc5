@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello there, I'm Will!"
+title: "Hello there, I'm Will! 👋"
 excerpt:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About Me
+## About Me 👨‍💻
 I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.  
 
 I am pursuing my Master’s in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
@@ -16,7 +16,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **Python libraries**: Pandas, NumPy, MatplotLib, Seaborn, NLTK, SciPy  
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
 
-## Education
+## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *M.S. in Data Science*  
 
@@ -26,7 +26,7 @@ Major: Operations and Information Management
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
 
-## Selected Experience
+## Selected Experience 🌟
 **Georgetown Baseball**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – May 2023</span>
 *Director of Analytics*  
 - Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
@@ -55,7 +55,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 - Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
 - Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
  
-## Additional Experience
+## Additional Experience 🏆
 **McDonough Business Strategy Challenge**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – February 2023</span>  
 *VP, Case Writing*  
 - Developed annual competition framework around strategies and business plans to benefit local nonprofit organizations  
