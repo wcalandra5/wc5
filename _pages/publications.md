@@ -3,9 +3,9 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-## [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”]()
+## [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”](https://github.com/wcalandra5/Senior_Honors_Thesis/blob/main/calandra_thesis.pdf)
 
-As part of a select group through the McDonough School of Business Senior Honors Thesis program, I had the opportunity to conduct original research under the guidance of a faculty advisor. Motivated to combine my business curriculum with my interest in AI development, I worked with Professor Robin Dillon-Merrill to research methods that could help increase adoption of AI technologies in business and social contexts.  
+As part of a select group through the McDonough School of Business Senior Honors Thesis program, I had the opportunity to conduct original research under the guidance of a faculty advisor. Motivated to combine my business curriculum with my interest in AI development, I worked with [Professor Robin Dillon-Merrill](https://gufaculty360.georgetown.edu/s/contact/00336000014RgsNAAS/robin-dillonmerrill) to research methods that could help increase adoption of AI technologies in business and social contexts.  
 
 In this paper, I highlight the “black box” system design as a bottleneck for AI adoption and evaluate explainable AI methodologies as solutions to algorithmic trust and safety issues. I also conduct a lab simulation experiment to show that in use cases involving high risk and social costs, explainable AI can improve the performance, learning, and understanding of algorithms by decision makers. I successfully defended this thesis in front of a panel of professors on April 26th, 2023.
 
