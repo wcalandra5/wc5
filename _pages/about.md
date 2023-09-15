@@ -12,10 +12,10 @@ I am an aspiring data scientist who loves bringing together people and data to s
 
 I am pursuing my Master’s in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
-**Languages/frameworks**: Python, R, SQL, Excel (VBA)  
+**Technologies**: Python, R, SQL, Excel (VBA), C++, SAS, Salesforce  
 **Python libraries**: Pandas, NumPy, MatplotLib, Seaborn, NLTK, SciPy  
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
----
+
 ## Education
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *M.S. in Data Science*  
@@ -25,7 +25,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 Major: Operations and Information Management  
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
----
+
 ## Selected Experience
 **Georgetown Baseball**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – May 2023</span>
 *Director of Analytics*  
@@ -65,4 +65,4 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 *Owner*  
 - Conducted capability assessments and created individualized lesson plans for each client  
 - Performed math tutoring sessions for both mainstream students and students with IEPs  
-- Satisfied parent concerns and expectations using effective management skills
+- Satisfied parent concerns and expectations using effective management and communication skills
