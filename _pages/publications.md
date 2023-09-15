@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Publications ✍️"
 author_profile: true
 ---
 ## [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”](https://github.com/wcalandra5/Senior_Honors_Thesis/blob/main/calandra_thesis.pdf)
