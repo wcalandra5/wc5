@@ -54,7 +54,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 - Overhauled legacy operations to Salesforce platform and created the ability to collect and analyze attendance data for 100+ students across all educational programs
 - Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
 - Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
----  
+ 
 ## Additional Experience
 **McDonough Business Strategy Challenge**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – February 2023</span>  
 *VP, Case Writing*  
