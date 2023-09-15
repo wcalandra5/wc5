@@ -3,17 +3,17 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-## [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”]()
+# [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”]()
 
 As part of a select group through the McDonough School of Business Senior Honors Thesis program, I had the opportunity to conduct original research under the guidance of a faculty advisor. Motivated to combine my business curriculum with my interest in AI development, I worked with Professor Robin Dillon-Merrill to research methods that could help increase adoption of AI technologies in business and social contexts.  
 
 In this paper, I highlight the “black box” system design as a bottleneck for AI adoption and evaluate explainable AI methodologies as solutions to algorithmic trust and safety issues. I also conduct a lab experiment to show that in use cases involving high risk and social costs, explainable AI can improve the performance, learning, and understanding of algorithms by decision makers.  
 
-## [Hoyalytics Medium Blog](https://medium.com/hoyalytics)
+# [Hoyalytics Medium Blog](https://medium.com/hoyalytics)
 
 In order to drive awareness for analytics initiatives and inspire people to keep an eye on what’s next, I often contributed to Hoyalytics’ newsletter to provide commentary on current events in data science.  
 
-### ["Another One — Sanofi Signs Billion Dollar AI Drug Discovery Deal with Insilico Medicine"](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0)  
+## ["Another One — Sanofi Signs Billion Dollar AI Drug Discovery Deal with Insilico Medicine"](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0)  
 **Quote**: "Think of the implications of such an achievement: if we can map the human genome and predict molecular interactions in computers, we can solve complex biological problems, finding cures and treatments for disease at the speed of computation."  
 
 ### ["Imagine If You Will… The Promise of Using Synthetic Data for Video Data Sets"](https://medium.com/hoyalytics/in-the-news-its-generative-ai-week-231a60fac3a8)
