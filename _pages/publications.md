@@ -3,17 +3,17 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
-# [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”]()
+## [Senior Honors Thesis: “Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support”]()
 
 As part of a select group through the McDonough School of Business Senior Honors Thesis program, I had the opportunity to conduct original research under the guidance of a faculty advisor. Motivated to combine my business curriculum with my interest in AI development, I worked with Professor Robin Dillon-Merrill to research methods that could help increase adoption of AI technologies in business and social contexts.  
 
 In this paper, I highlight the “black box” system design as a bottleneck for AI adoption and evaluate explainable AI methodologies as solutions to algorithmic trust and safety issues. I also conduct a lab experiment to show that in use cases involving high risk and social costs, explainable AI can improve the performance, learning, and understanding of algorithms by decision makers.  
-
-# [Hoyalytics Medium Blog](https://medium.com/hoyalytics)
+---
+## [Hoyalytics Medium Blog](https://medium.com/hoyalytics)
 
 In order to drive awareness for analytics initiatives and inspire people to keep an eye on what’s next, I often contributed to Hoyalytics’ newsletter to provide commentary on current events in data science.  
 
-## ["Another One — Sanofi Signs Billion Dollar AI Drug Discovery Deal with Insilico Medicine"](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0)  
+### ["Another One — Sanofi Signs Billion Dollar AI Drug Discovery Deal with Insilico Medicine"](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0)  
 **Quote**: "Think of the implications of such an achievement: if we can map the human genome and predict molecular interactions in computers, we can solve complex biological problems, finding cures and treatments for disease at the speed of computation."  
 
 ### ["Imagine If You Will… The Promise of Using Synthetic Data for Video Data Sets"](https://medium.com/hoyalytics/in-the-news-its-generative-ai-week-231a60fac3a8)
@@ -33,7 +33,7 @@ In order to drive awareness for analytics initiatives and inspire people to keep
 
 ### ["How Meta Is Using AI to Understand How the Brain Works"](https://medium.com/hoyalytics/in-the-news-how-data-is-transforming-healthcare-criminal-investigations-and-football-9341a7697e30)
 **Quote**: "If researchers are able to build accurate models of the brain’s pathways for recognizing speech, they can understand how our brains decode speech, which has revolutionary potential for solving speech and communication impairments."    
-
+---
 ## [The Georgetown Voice: "The MLB Has a Competitive Balance Issue, and It’s Related to Money and Payroll Inequalities"](https://georgetownvoice.com/2020/02/18/the-mlb-has-a-competitive-balance-issue-and-its-related-to-money-and-payroll-inequalities/)
 
 Published in The Georgetown Voice, a student-run newspaper, I examine the relationship between MLB team wins and payrolls from 2000-2019. In the article, I highlight the systemic inequalities that prevent small market teams from competing with large market teams, diving into performance and payroll data in addition to analysis of the MLB collective bargaining agreement. I then elucidate strategic patterns of successful small market franchises, and I make policy prescriptions for MLB franchise tags, stronger luxury taxes, and a playoff format redesign.

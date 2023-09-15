@@ -15,7 +15,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 **Languages/frameworks**: Python, R, SQL, Excel (VBA)  
 **Python libraries**: Pandas, NumPy, MatplotLib, Seaborn, NLTK, SciPy  
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
-
+---
 ## Education
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *M.S. in Data Science*  
@@ -25,7 +25,7 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 Major: Operations and Information Management  
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
-
+---
 ## Selected Experience
 **Georgetown Baseball**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – May 2023</span>
 *Director of Analytics*  
@@ -53,8 +53,8 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 *Data Operations & IT Support Intern*   
 - Overhauled legacy operations to Salesforce platform and created the ability to collect and analyze attendance data for 100+ students across all educational programs
 - Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
-- Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities 
-
+- Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
+---  
 ## Additional Experience
 **McDonough Business Strategy Challenge**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – February 2023</span>  
 *VP, Case Writing*  
