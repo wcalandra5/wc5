@@ -11,7 +11,7 @@ In this paper, I highlight the “black box” system design as a bottleneck for
 
 ## [Hoyalytics Medium Blog](https://medium.com/hoyalytics) 📝
 
-In order to drive awareness for analytics initiatives and inspire people to keep an eye on what’s next, I often contributed to Hoyalytics’ newsletter to provide commentary on current events in data science.  
+In order to drive awareness for analytics initiatives and inspire people to keep an eye on what’s next, I often contributed to Hoyalytics’ newsletter to provide commentary on current events in data science. SAY YOU WERE CHIEF EDITOR
 
 ### ["Another One — Sanofi Signs Billion Dollar AI Drug Discovery Deal with Insilico Medicine"](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0)  
 **Quote**: "Think of the implications of such an achievement: if we can map the human genome and predict molecular interactions in computers, we can solve complex biological problems, finding cures and treatments for disease at the speed of computation."  
