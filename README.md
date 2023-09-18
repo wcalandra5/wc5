@@ -1,1 +1,1 @@
-My personal webiste, which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). See LICENSE.md.
+My personal website, which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). See LICENSE.md.
