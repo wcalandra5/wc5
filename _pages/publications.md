@@ -11,7 +11,7 @@ In this paper, I highlight the “black box” system design as a bottleneck for
 
 ## [Hoyalytics Medium Blog](https://medium.com/hoyalytics) 📝
 
-In order to drive awareness for analytics initiatives and help people start their learning journies in the field, I launched Hoyalytics' Medium blog and served as its Chief Editor. I often contributed to our newsletter to provide commentary on current events in data science, which can be sampled below.  
+In order to drive awareness for analytics initiatives and help people start their learning journey in data science, I launched Hoyalytics' Medium blog and served as its Chief Editor. I often contributed to our newsletter to provide commentary on current events in data science, which can be sampled below.
 
 ### ["Another One — Sanofi Signs Billion Dollar AI Drug Discovery Deal with Insilico Medicine"](https://medium.com/hoyalytics/in-the-news-ai-for-drug-development-ensuring-chess-fairness-and-automating-google-sheets-d33ee4224e0)  
 **Quote**: "Think of the implications of such an achievement: if we can map the human genome and predict molecular interactions in computers, we can solve complex biological problems, finding cures and treatments for disease at the speed of computation."  
@@ -32,7 +32,7 @@ In order to drive awareness for analytics initiatives and help people start thei
 **Quote**: "With the move to LF (Linux Foundation), PyTorch will establish and codify its organization and procedures, which will improve trust in the platform’s use for large-scale projects."   
 
 ### ["How Meta Is Using AI to Understand How the Brain Works"](https://medium.com/hoyalytics/in-the-news-how-data-is-transforming-healthcare-criminal-investigations-and-football-9341a7697e30)
-**Quote**: "If researchers are able to build accurate models of the brain’s pathways for recognizing speech, they can understand how our brains decode speech, which has revolutionary potential for solving speech and communication impairments."    
+**Quote**: "If researchers are able to build accurate models of the brain’s pathways for recognizing speech, they can understand how our brains decode speech, which has revolutionary potential for solving speech and communication impairments."
 
 ## [The Georgetown Voice: "The MLB Has a Competitive Balance Issue, and It’s Related to Money and Payroll Inequalities"](https://georgetownvoice.com/2020/02/18/the-mlb-has-a-competitive-balance-issue-and-its-related-to-money-and-payroll-inequalities/) ⚾
 
