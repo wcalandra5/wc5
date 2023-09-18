@@ -51,7 +51,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 
 **Leading Youth Through Empowerment**, Wilmington, DE <span style="float: right;">August 2021 – May 2023</span>   
 *Data Operations & IT Support Intern*   
-- Overhauled legacy operations to Salesforce platform and created the ability to collect and analyze attendance data for 100+ students across all educational programs
+- Overhauled legacy operations to Salesforce platform and created ability to collect and analyze attendance data for 100+ students across all educational programs
 - Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
 - Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
  
@@ -65,4 +65,4 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 *Owner*  
 - Conducted capability assessments and created individualized lesson plans for each client  
 - Performed math tutoring sessions for both mainstream students and students with IEPs  
-- Satisfied parent concerns and expectations using effective management and communication skills
+- Satisfied parent expectations and concerns using effective management and communication skills
