@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me 👨‍💻
-I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.  
+I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown University while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.  
 
 I am pursuing my Master’s in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
