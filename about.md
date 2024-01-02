@@ -10,7 +10,7 @@ redirect_from:
 ## About Me 👨‍💻
 I am an aspiring data scientist who loves bringing together people and data to solve problems. I seek opportunities to lead and create impact, having founded multiple data science initiatives at Georgetown University while building new data-driven applications for large enterprises. I enjoy communicating actionable insights from seemingly disparate datasets, connecting with wider audiences from my experiences across academic, sports, and business settings.  
 
-I am pursuing my Master’s in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
+I am pursuing my MS in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
 **Technologies**: Python, R, SQL, Excel (VBA), C++, SAS, Salesforce  
 **Python libraries**: Pandas, NumPy, SciPy, Scikit-learn, MatplotLib, Seaborn, NLTK  
@@ -18,7 +18,8 @@ I am pursuing my Master’s in Data Science degree at NYU to gain a deeper under
 
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
-*M.S. in Data Science*  
+*M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
+Coursework: Probability and Statistics, Machine Learning, Big Data, Natural Language Understanding  
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
 *B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
