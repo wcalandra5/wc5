@@ -32,7 +32,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 *Director of Analytics*  
 - Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies  
 - Translated raw performance data into meaningful insights for pitching, leading to a 15% reduction in runs credited to pitching staff  
-- Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ man-hours for coaching staff and team analysts  
+- Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ hours for coaching staff and team analysts  
 
 **IQVIA**, Durham, NC <span style="float: right;">June 2021 – April 2023</span>  
 *Business Analyst Intern, Product Design and Digital R&D*  
