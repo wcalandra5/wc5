@@ -15,6 +15,7 @@ I am pursuing my MS in Data Science degree at NYU to gain a deeper understanding
 **Technologies**: Python, R, SQL, Excel (VBA), C++, SAS, Salesforce  
 **Python libraries**: Pandas, NumPy, SciPy, Scikit-learn, MatplotLib, Seaborn, NLTK  
 **R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
+**Techniques**: Regression, Clustering, Random Forest, Naive Bayes, Neural Network, Sentiment Analysis, Time Series Analysis  
 
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
@@ -35,8 +36,8 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 - Engineered integration of internal and external databases to extract, transform, and load relevant data for analysis, saving 100+ hours for coaching staff and team analysts  
 
 **IQVIA**, Durham, NC <span style="float: right;">June 2021 – April 2023</span>  
-*Business Analyst Intern, Product Design and Digital R&D*  
-- Deployed interactive application to analyze drivers of product UX performance using novel regression methodologies  
+*Business Analyst Intern*  
+- Deployed interactive application to analyze drivers of product UX performance using averaging over orderings methodology  
 - Analyzed key trends and relationships for predicting drug candidate success from clinical trial data using Python and SQL  
 - Conducted end-to-end analyses in R to inform persona development for product launch using ensemble clustering and random forest algorithms  
 
@@ -51,7 +52,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 - Moderated 4 forums with data and technology industry leaders to increase awareness of analytics initiatives across sports and academic communities  
 
 **Leading Youth Through Empowerment**, Wilmington, DE <span style="float: right;">May 2020 – August 2020</span>   
-*Data Operations & IT Support Intern*   
+*Intern*   
 - Overhauled legacy operations to Salesforce platform and created ability to collect and analyze attendance data for 100+ students across all educational programs
 - Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
 - Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities  
