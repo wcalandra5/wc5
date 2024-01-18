@@ -20,7 +20,7 @@ I am pursuing my MS in Data Science degree at NYU to gain a deeper understanding
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
-Coursework: Probability and Statistics (fall), Machine Learning, Big Data, Natural Language Understanding and Computational Semantics (spring)  
+Coursework: Probability and Statistics (fall); Machine Learning, Big Data, Natural Language Understanding and Computational Semantics (spring)  
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
 *B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
