@@ -12,15 +12,19 @@ I am an aspiring data scientist who loves bringing together people and data to s
 
 I am pursuing my MS in Data Science degree at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
-**Technologies**: Python, R, SQL, Excel (VBA), C++, SAS, Salesforce  
-**Python libraries**: Pandas, NumPy, SciPy, Scikit-learn, MatplotLib, Seaborn, NLTK  
-**R libraries**: tidyverse, ggplot2, caret, randomForest, glmnet, factoextra, knitr, car, leaps, MASS, shiny  
-**Techniques**: Regression, Clustering, Random Forest, Naive Bayes, Neural Network, Sentiment Analysis, Time Series Analysis  
+**Technologies**: Python, R, SQL, Git, C++, Excel (VBA), SAS, Salesforce  
+**Python libraries**: Pandas, NumPy, SciPy, Scikit-learn, MatplotLib, NLTK, Surprise   
+**R libraries**: tidyverse, caret, randomForest, glmnet, car, MASS, leaps, factoextra, ggplot2, knitr, shiny    
+**Techniques**: Regression, Clustering, Random Forest, Naive Bayes, Neural Network, Sentiment Analysis, Time Series Analysis, Recommender Systems  
 
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
 Coursework: Probability and Statistics (fall); Machine Learning, Big Data, Natural Language Understanding and Computational Semantics (spring)  
+
+*Projects*  
+- Built Spotify song recommendation engine achieving 60% mean average precision using SVD collaborative filtering method  
+- Performed sentiment and n-gram frequency analyses on Manhattan restaurant Yelp review data using NLTK library  
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
 *B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
