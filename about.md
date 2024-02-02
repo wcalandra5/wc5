@@ -21,8 +21,7 @@ I am pursuing my MS in Data Science degree at NYU to gain a deeper understanding
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">Expected: May 2025</span>  
 *M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
 Coursework: Probability and Statistics (fall); Machine Learning, Big Data, Natural Language Understanding and Computational Semantics (spring)  
-
-*Projects*  
+Projects:
 - Built Spotify song recommendation engine achieving 60% mean average precision using SVD collaborative filtering method  
 - Performed sentiment and n-gram frequency analyses on Manhattan restaurant Yelp review data using NLTK library  
 
