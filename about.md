@@ -42,7 +42,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 **IQVIA**, Durham, NC <span style="float: right;">June 2021 – April 2023</span>  
 *Business Analyst Intern*  
 - Deployed interactive application to analyze drivers of product UX performance using averaging over orderings methodology  
-- Analyzed key trends and relationships for predicting drug candidate success from clinical trial data using Python and SQL  
+- Analyzed key trends and relationships for predicting drug candidate success from clinical trial relational database using Python and SQL  
 - Conducted end-to-end analyses in R to inform persona development for product launch using ensemble clustering and random forest algorithms  
 
 **Hoyalytics**, Georgetown University, Washington, DC <span style="float: right;">September 2021 – December 2022</span>   
