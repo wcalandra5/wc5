@@ -24,7 +24,7 @@ Coursework: Probability and Statistics (fall); Machine Learning, Big Data, Natur
 
 *Projects*
 - Built Spotify song recommendation engine achieving 60% mean average precision using SVD collaborative filtering method  
-- Performed sentiment and n-gram frequency analyses on Manhattan restaurant Yelp review data using NLTK library  
+- Performed sentiment and n-gram frequency analyses on 10k+ Manhattan restaurants' Yelp review data using NLTK library  
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
 *B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
