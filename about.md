@@ -31,7 +31,6 @@ Coursework: Probability and Statistics (fall); Machine Learning, Big Data, Natur
 Major: Operations and Information Management  
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
-Relevant Coursework: Data Mining, Statistical Learning and Data Science, Advanced Regression Methods, Data Structures, Linear Algebra, Multivariable Calculus, Business Forecasting, Data Visualization & Graphics  
 
 ## Selected Experience 🌟
 **Georgetown Baseball**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – May 2023</span>
