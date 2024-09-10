@@ -37,6 +37,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 
 ## Selected Experience 🌟
 **Prudential Financial**, Newark, NJ <span style="float: right;">June 2024 – August 2024</span>  
+
 *Data Science Summer Associate*  
 - Engineered RAG pipeline from scratch to accelerate life insurance underwriting from 48 hours to 2 minutes per quote
 - Transformed prospective applicant inquiries into summary tables of medical conditions with LLM-generated explanations to boost underwriter productivity for estimated $2M in annual savings
