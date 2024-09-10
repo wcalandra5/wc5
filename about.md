@@ -13,14 +13,14 @@ I am an aspiring data scientist who loves bringing together people and data to s
 I am pursuing my MS in Data Science at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
 **Technologies**: Python, R, SQL, Git, Excel  
-**Python libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, HuggingFace, OpenAI, NLTK, PySpark, Beautiful Soup  
+**Python libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, HuggingFace, OpenAI, PySpark, Beautiful Soup  
 **R libraries**: tidyverse, caret, randomForest, glmnet, car, leaps, factoextra, ggplot2, knitr, shiny  
-**Techniques**: RAG, Regression, Clustering, Random Forest, Neural Networks, Time Series, Recommender Systems  
+**Techniques**: RAG, Regression, Clustering, Neural Networks, Time Series, Recommender Systems  
 
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">May 2025</span>  
-*M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>
-Coursework:  Probability and Statistics, Machine Learning, Big Data, Natural Language Understanding and Computational Semantics, Natural Language Processing with Representation Learning, Probabilistic Time Series Analysis  
+*M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
+Coursework: Machine Learning, NLP, NLU, Big Data, Probability and Statistics, Time Series  
 
 *Projects*
 - Designed 3D pathfinding simulation task with 4 evaluation metrics to reveal LLM spatial reasoning limitations
@@ -30,7 +30,7 @@ Coursework:  Probability and Statistics, Machine Learning, Big Data, Natural Lan
 
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
-*B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>
+*B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
 Major: Operations and Information Management  
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
