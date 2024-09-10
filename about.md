@@ -20,7 +20,7 @@ I am pursuing my MS in Data Science at NYU to gain a deeper understanding of the
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">May 2025</span>  
 *M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
-Coursework: Machine Learning, NLP, NLU, Big Data, Probability and Statistics, Time Series  
+Coursework: Machine Learning, NLP, NLU, Big Data, Probability and Statistics, Time Series
 
 *Projects*
 - Designed 3D pathfinding simulation task with 4 evaluation metrics to reveal LLM spatial reasoning limitations
@@ -36,14 +36,14 @@ Minors: Statistics, Computer Science
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
 
 ## Selected Experience 🌟
-**Prudential Financial**, Newark, NJ <span style="float: right;">June 2024 – August 2024</span>
+**Prudential Financial**, Newark, NJ <span style="float: right;">June 2024 – August 2024</span>  
 *Data Science Summer Associate*  
 - Engineered RAG pipeline from scratch to accelerate life insurance underwriting from 48 hours to 2 minutes per quote
 - Transformed prospective applicant inquiries into summary tables of medical conditions with LLM-generated explanations to boost underwriter productivity for estimated $2M in annual savings
 - Ingested 500+ unstructured underwriting documents into vector database for downstream GenAI applications
 - Developed test suite of 5 LLM evaluation metrics across summarization, search, and generation for business use cases
 
-**Georgetown Baseball**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – May 2023</span>
+**Georgetown Baseball**, Georgetown University, Washington, DC <span style="float: right;">August 2021 – May 2023</span>  
 *Director of Analytics*  
 - Recruited and led 19 students for value delivery to Division I baseball program through design and execution of decision support systems and outbound engagement strategies
 - Translated raw performance data into practical pitching insights, leading to a 15% reduction in runs credited to pitching staff
