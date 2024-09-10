@@ -13,24 +13,24 @@ I am an aspiring data scientist who loves bringing together people and data to s
 I am pursuing my MS in Data Science at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
 **Technologies**: Python, R, SQL, Git, Excel  
-**Python libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, HuggingFace, OpenAI, NLTK, PySpark, Beautiful Soup, Matplotlib  
-**R libraries**: tidyverse, caret, randomForest, glmnet, car, MASS, leaps, factoextra, ggplot2, knitr, shiny  
+**Python libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, HuggingFace, OpenAI, NLTK, PySpark, Beautiful Soup  
+**R libraries**: tidyverse, caret, randomForest, glmnet, car, leaps, factoextra, ggplot2, knitr, shiny  
 **Techniques**: RAG, Regression, Clustering, Random Forest, Neural Networks, Time Series, Recommender Systems  
 
 ## Education 🎓
 **New York University, Center for Data Science**, New York, NY <span style="float: right;">May 2025</span>  
-*M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>  
+*M.S. in Data Science* <span style="float: right;">GPA: 3.89/4.0</span>
 Coursework:  Probability and Statistics, Machine Learning, Big Data, Natural Language Understanding and Computational Semantics, Natural Language Processing with Representation Learning, Probabilistic Time Series Analysis  
 
 *Projects*
-- Designed 3D pathfinding simulation task with 4 evaluation metrics to reveal LLM spatial reasoning limitations  
-- Built Spotify song recommendation engine achieving 60% mean average precision using SVD collaborative filtering method  
-- Performed sentiment and n-gram analyses on Yelp reviews of 10K+ restaurants to study Michelin star brand image  
-- Evaluated LLM viability for tabular synthetic data generation through comparative analysis of distributional and ML performance between GAN and LLM approaches across 2 experimental datasets  
+- Designed 3D pathfinding simulation task with 4 evaluation metrics to reveal LLM spatial reasoning limitations
+- Built Spotify song recommendation engine achieving 60% mean average precision using SVD collaborative filtering method
+- Performed sentiment and n-gram analyses on Yelp reviews of 10K+ restaurants to study Michelin star brand image
+- Evaluated LLM viability for tabular synthetic data generation through comparative analysis of distributional and ML performance between GAN and LLM approaches across 2 experimental datasets
 
 
 **Georgetown University, McDonough School of Business**, Washington, DC <span style="float: right;">May 2023</span>  
-*B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>  
+*B.S. in Business Administration* <span style="float: right;">GPA: 3.78/4.0</span>
 Major: Operations and Information Management  
 Minors: Statistics, Computer Science  
 Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Techniques for Trustworthy Decision Support"  
@@ -77,7 +77,7 @@ Honors Thesis: "Deploying AI Systems Responsibly: Evaluating Explainable AI Tech
 - Satisfied parent expectations and concerns using effective management and communication skills
 
 **Leading Youth Through Empowerment**, Wilmington, DE <span style="float: right;">May 2020 – August 2020</span>   
-*Data Operations & IT Support Intern*   
+*Data Operations & IT Support Intern*  
 - Overhauled legacy operations to Salesforce platform and created ability to collect and analyze attendance data for 100+ students across all educational programs
 - Collaborated with Salesforce vendors to engineer efficient solutions to operational bottlenecks
 - Coordinated with the executive team to brainstorm new projects and directives involving the use of technological capabilities
