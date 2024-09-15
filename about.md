@@ -13,7 +13,7 @@ I am an aspiring data scientist who loves bringing together people and data to s
 I am pursuing my MS in Data Science at NYU to gain a deeper understanding of the mathematical, statistical, and engineering methodologies for maturing my foundation in data science.  
 
 **Technologies**: Python, R, SQL, Git, Excel  
-**Python libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, HuggingFace, OpenAI, PySpark, Beautiful Soup  
+**Python libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, Hugging Face, OpenAI, PySpark, Beautiful Soup  
 **R libraries**: tidyverse, caret, randomForest, glmnet, car, leaps, factoextra, ggplot2, knitr, shiny  
 **Techniques**: RAG, Regression, Clustering, Neural Networks, Time Series, Recommender Systems  
 
